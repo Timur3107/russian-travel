@@ -36,8 +36,7 @@
 
 @media screen and (max-width: 766px) {
   .place{
-    display: flex;
-    flex-direction: column;
+    display: inline-block;
     padding-bottom: 50px;
   }
 }
